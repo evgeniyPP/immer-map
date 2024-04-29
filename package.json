@@ -1,8 +1,9 @@
 {
   "name": "immer-map",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Immer-based map function for arrays",
   "main": "dist/index.js",
+  "types": "types/index.d.ts",
   "scripts": {
     "build": "tsc"
   },
