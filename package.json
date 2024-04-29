@@ -1,6 +1,6 @@
 {
   "name": "immer-map",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Immer-based map function for arrays",
   "main": "dist/index.js",
   "scripts": {
